@@ -1,0 +1,18 @@
+# Pacman packages (Arch Linux)
+alacritty
+zsh
+neovim
+tmux
+rofi
+i3-wm
+picom
+git
+playerctl
+flameshot
+stow
+xorg-xrandr
+ttf-nerd-fonts-symbols
+python-pip
+
+# Flatpak apps (optioneel, Ubuntu of Arch met flatpak)
+flatpak:com.spotify.Client
