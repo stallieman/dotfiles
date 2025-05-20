@@ -1,0 +1,17 @@
+[window]
+opacity = 0.95
+decorations = "full"
+startup_mode = "Windowed"
+
+[font]
+size = 16.0
+# Gebruik onderstaande regels als je Nerd Font hebt geïnstalleerd
+# normal.family = "JetBrainsMono Nerd Font"
+
+[colors.primary]
+background = "#1e1e2e"
+foreground = "#cdd6f4"
+
+[env]
+# 200% scaling voor 4K
+WINIT_X11_SCALE_FACTOR = "2.0"
